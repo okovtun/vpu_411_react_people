@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+GitHub hosting:
+https://create-react-app.dev/docs/deployment/
+
+TODO:
+1. Выложить карточки плитками;
+2. Залить 'People' на GitHub и прислать ссылку;
+
 ## Available Scripts
 
 In the project directory, you can run:
